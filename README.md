@@ -46,13 +46,13 @@
 
 ## System Architecture
 
-<div style="text-align:center"><img src="https://i.ibb.co/xg9MfVc/image4.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/yQ70yMR/image4.png" /></div>
 
 ---
 
 ## Demonstration
 
-<div style="text-align:center"><img src="https://i.ibb.co/dDsmgcw/image5.png" /></div>
+<div style="text-align:center"><img src="https://i.ibb.co/yfL4FNw/image5.png" /></div>
 
 ### **A video demonstration is availbale via the following link :**
 
