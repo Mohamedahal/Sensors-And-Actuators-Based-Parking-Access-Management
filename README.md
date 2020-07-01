@@ -54,7 +54,7 @@
 
 <div style="text-align:center"><img src="https://i.ibb.co/yfL4FNw/image5.png" /></div>
 
-### **A video demonstration is availbale via the following link :**
+### **A video demonstration is available via the following link :**
 
 *(This content is not yet available)*
 
