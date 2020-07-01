@@ -28,7 +28,7 @@
 
 - When a subscriber arrives at the car park, he uses his membership card containing a unique identifier, the barrier opens thereafter and the number displayed decreases by 1. During its opening, a green LED lights up showing that a access is in progress, otherwise a red LED is on.
 
-- A photoresistor placed after the entry barrier is used to trigger its closure.
+- A photoresistor placed after the entry barrier is used to trigger its closure. 
 
 - The sound effect heard by a non-subscribed member is accompanied by a flashing of the red LED.
 
