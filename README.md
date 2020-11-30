@@ -64,11 +64,11 @@
 
 The project contains the following files :
 
-1. [7Seg_Decoder.ino](7Seg_Decoder.ino) : contains the code that decodes the value sent by the entrance's arduino interface to be displayed on the 7 segment displayer
-2. [Entrance_Interface.ino](Entrance_Interface.ino) : it does all the user interface management before and after entering into the parking
-3. [Exit_Custom_Control.ino](Exit_Custom_Control.ino) : it acts as the interface between the exit parameters setting and the Arduino interface corresponding to the exit
-4. [Exit_Interface.ino](Exit_Interface.ino) : it does all the user interface management dedicated for exit operation
-5. [Ultrasonic_Interface.ino](Ultrasonic_Interface.ino) : it contains the code that reads Ultradonic sensor's values and controls some LEDs, in order to help the driver to well park
+1. [7Seg_Decoder.ino](src/7Seg_Decoder.ino) : contains the code that decodes the value sent by the entrance's arduino interface to be displayed on the 7 segment displayer
+2. [Entrance_Interface.ino](src/Entrance_Interface.ino) : it does all the user interface management before and after entering into the parking
+3. [Exit_Custom_Control.ino](src/Exit_Custom_Control.ino) : it acts as the interface between the exit parameters setting and the Arduino interface corresponding to the exit
+4. [Exit_Interface.ino](src/Exit_Interface.ino) : it does all the user interface management dedicated for exit operation
+5. [Ultrasonic_Interface.ino](src/Ultrasonic_Interface.ino) : it contains the code that reads Ultradonic sensor's values and controls some LEDs, in order to help the driver to well park
 
 ---
 
